@@ -11,7 +11,7 @@ author : zozoh
 关于 Lua 语言，我阅读的资料如下:
 
 - [酷壳·Lua简明教程](https://coolshell.cn/articles/10739.html)
-    > [左耳朵耗子](https://coolshell.cn/haoel)的简明教程，基本上30分钟可以读完
+    > [左耳朵耗子](https://coolshell.cn/haoel)的简明教程，资深程序员基本上10分钟左右可以读完
 - [菜鸟教程·Lua 教程](http://www.runoob.com/lua/lua-tutorial.html)
     > 用来作为手册快速查询语法，API 等
 - [Lua官网](https://www.lua.org/)
