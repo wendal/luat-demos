@@ -92,7 +92,7 @@ author : zozoh
 
 -- 未完待续 --
 
-> [![](https://nutzam.com/core/logo.png)](http://nutzam.com)
+[![](https://nutzam.com/core/logo.png)](http://nutzam.com)
 
-- [Nutz]((https://nutzam.com)) : 热爱Java小伙伴们的另一个选择
-- [Nutz 社区]((https://nutz.cn)) : 关于Nutz，有问必答
+> - [Nutz](https://nutzam.com) : 热爱Java小伙伴们的另一个选择
+> - [Nutz 社区](https://nutz.cn) : 关于Nutz，有问必答
