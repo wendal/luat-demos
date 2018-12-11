@@ -70,9 +70,7 @@ author : zozoh
 -----------------------------------------
 # 下一步: LuaTools
 
-工欲善其事，必先利其器，下一步将玩玩 `LuaTools`, 相关文档参见：
-
-> http://ask.openluat.com/article/4
+> 工欲善其事，必先利其器，下一步我将用 `LuaTools` 写一个 [Luat 的 Hello World](s01_luat-tools.md)
 
 -----------------------------------------
 # 相关链接
