@@ -76,6 +76,8 @@ module(...,package.seeall)
 _G.print("Hello Luat ^_^")
 ```
 
+> 代码地址： https://github.com/wendal/luat-demos/tree/master/src/demo/hello
+
 接下来，选择 `LuaTools` 里的 `下载Lua脚本`，选择上你的这两程序文件
 
 ![](luatools_s1.png)
