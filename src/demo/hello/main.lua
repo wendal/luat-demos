@@ -5,10 +5,9 @@ require"sys"
 
 require"hello"
 
---[[
+--- feed the watchdog
 require "wdt"
 wdt.setup(pio.P0_30, pio.P0_31)
-]]--
 
 sys.init(0,0)
 sys.run()

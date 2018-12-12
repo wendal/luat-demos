@@ -1,3 +1,3 @@
 module(...,package.seeall)
 
-_G.print("Hello Luat ^_^")
+_G.print("Hello Luat ^_^!")
